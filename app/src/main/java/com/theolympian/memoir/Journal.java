@@ -1,7 +1,6 @@
 package com.theolympian.memoir;
 
 import com.google.firebase.firestore.ServerTimestamp;
-
 import java.util.Date;
 
 public class Journal {

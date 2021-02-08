@@ -6,12 +6,12 @@
     app:startDestination="@id/homeFragment">
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.theolympian.memoir.HomeFragment"
+        android:name="com.theolympian.memoir.HomeFragmentActivity"
         android:label="Home"
         tools:layout="@layout/fragment_home" />
     <fragment
         android:id="@+id/profileFragment"
-        android:name="com.theolympian.memoir.ProfileFragment"
+        android:name="com.theolympian.memoir.ProfileFragmentActivity"
         android:label="Profile"
         tools:layout="@layout/fragment_profile" />
 </navigation>

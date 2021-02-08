@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memoir - Personal Journal</string>
+    <string name="text_welcome">Welcome to Memoir\nYour Personal Journal App</string>
+    <string name="text_sigin_prompt">Sign In with Google to continue</string>
+</resources>

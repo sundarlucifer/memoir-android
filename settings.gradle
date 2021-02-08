@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Memoir - Personal Journal"

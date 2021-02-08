@@ -1,5 +1,7 @@
 # Memoir - A Personal Journal
 
+`This application is still under development and not a complete solution`
+
 Memoir is an android app that aims at replacing handwritten diary. Users write down their daily observations, events, reflections, feelings, goals and ideas in this app. The user's writings are kept private and can't be read by other users.
  
 ## How it is built?
